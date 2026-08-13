@@ -13,8 +13,9 @@
 ### 1. NHL
 - All games
 
-### 2. PGA Golf
-- All tournaments and events
+### 2. PGA Golf (Men's PGA Tour only)
+- Saturday and Sunday only
+- Show tournament name and top 3 on leaderboard with scores (tee times not available via ESPN API)
 
 ### 3. Formula 1
 - All race weekend events (practice, qualifying, race)
